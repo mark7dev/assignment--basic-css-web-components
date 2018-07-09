@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+	font-family: avenir, sans;
+}
+
+.menu {
+	margin-left: -35px;
+}
+
+.menu ul {
+	list-style: none;
+}
+
+.menu ul li {
+	padding: 15px;
+	width: 25%;
+	border: 1px solid gray;
+}
+
+.menu li:hover {
+	color: #66CC99;
+}
+
+/*
+.menu ul {
+	border: 1px black;
+	margin: 1px black;
+	list-style-type: none;
+	padding: 0;
+	/*display: flex;*/
+	/*flex-direction: column;
+	/*border: black;*/
+	/*width: 30%;
+	/*background-color: blue;*/
+
+/*
+.menu li {
+	/*display: block;*/
+	/*padding: 15px 15px;
+	/*border: 10px black;*/
+	/*margin: 1px black;
+}

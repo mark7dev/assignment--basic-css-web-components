@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FBF9F1;
+}
+
+div {
+	font-family: Georgia, Palatino, serif;
+	width: 40%;
+	margin-left: 150px;
+	margin-top: 50px;
+	line-height: 1.25;
+	font-size: 180%;
+}
+
+#h2_1 {
+	text-decoration: underline;
+}
+
+#h2_2 {
+	background-color: black;
+	color: white;
+	font-family: Geneva, Ubuntu, sans-serif;
+}
+
+.blue {
+	color: #77A8D2;
+}
